@@ -57,8 +57,6 @@ covid-dashboard/
     └── (add your screenshot/GIF here)
 ```
 
-Note: the ~90MB raw OWID CSV is **not** committed to this repo (GitHub discourages large data files in source control). `process.py` downloads it automatically on first run — see Reproducibility above.
-
 ## Data source
 
 [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data) — the same dataset used by major news outlets and public health bodies throughout the pandemic, updated through August 2024 (OWID's last full update before transitioning to a lighter-weight tracking cadence).
