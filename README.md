@@ -4,7 +4,7 @@ An interactive, animated dashboard built on the official Our World in Data COVID
 
 **[➡️ Open the live interactive dashboard](dashboard.html)** *(download the repo and open `dashboard.html` in any browser — no install needed)*
 
-> 📸 Take a screenshot/GIF of the map animating through time and drop it in `images/preview.gif`, then reference it at the top of this README — animated maps are extremely shareable on LinkedIn.
+
 
 ## The signature visual: an animated world map
 
